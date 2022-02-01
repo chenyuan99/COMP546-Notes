@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Human Eye
 
-You can use the [editor on GitHub](https://github.com/chenyuan99/COMP546-Notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+*   Retina - receives the image
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    *   color
 
-### Markdown
+    *   light levels
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    *   massive blood
 
-```markdown
-Syntax highlighted code block
+*   Retina receptors
 
-# Header 1
-## Header 2
-### Header 3
+*   Rods and Cones
+    \- Cone -> strong light
+    \- Rods -> night vision
 
-- Bulleted
-- List
+***
 
-1. Numbered
-2. List
+## Focusing
 
-**Bold** and _Italic_ and `Code` text
+*   from air to cornea
 
-[Link](url) and ![Image](src)
-```
+*   from cornea ro eyelens (n=1.406)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Near Vision
 
-### Jekyll Themes
+## The Iris
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chenyuan99/COMP546-Notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Shadow Illussions
 
-### Support or Contact
+## Brightness Illusion
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+##
