@@ -1,33 +1,27 @@
-## Human Eye
+# 01-13-2022
 
-*   Retina - receives the image
+### Human Eye
 
-    *   color
-
-    *   light levels
-
-    *   massive blood
-
-*   Retina receptors
-
-*   Rods and Cones
-    \- Cone -> strong light
-    \- Rods -> night vision
+* Retina - receives the image
+  * color
+  * light levels
+  * massive blood
+* Retina receptors
+* Rods and Cones - Cone -> strong light - Rods -> night vision
 
 ***
 
-## Focusing
+### Focusing
 
-*   from air to cornea
+* from air to cornea
+* from cornea ro eyelens (n=1.406)
 
-*   from cornea ro eyelens (n=1.406)
+### Near Vision
 
-## Near Vision
+### The Iris
 
-## The Iris
+### Shadow Illussions
 
-## Shadow Illussions
+### Brightness Illusion
 
-## Brightness Illusion
-
-##
+###
